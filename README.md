@@ -63,6 +63,10 @@ Please note that due to Unity's large file sizes and GitHub's file size limitati
 
 Contributions to this project are welcome! If you have suggestions for improvements or would like to report bugs, please open an issue or submit a pull request.
 
+## Credit
+
+This project was assisted in development by @jamesmartingithub who, helped set up and get initially working the SteamVR plugin for Unity.
+
 ---
 
 Thank you for exploring the Unity VR Black Hole Experience! We hope you enjoy the cosmic journey and find the interactive elements engaging and educational.
